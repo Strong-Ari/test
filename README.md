@@ -32,3 +32,10 @@
 <a target="_blank" href="https://www.youtube.com/Le Devarel" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Strong-Ari&show_icons=true&locale=en" alt="Strong-Ari" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Strong-Ari&" alt="Strong-Ari" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
